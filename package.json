@@ -1,0 +1,12 @@
+{
+  "name": "ast-parser-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "acorn": "^7.1.1"
+  }
+}
